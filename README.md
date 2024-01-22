@@ -1,10 +1,8 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a final year student at Vellore Institute of Technology, Vellore
+### :smiley_cat: Member Tech, DE Shaw
 
-### My core competencies include Artificial Intelligence, Computer Vision, Python, Procrastination, Copy and Pasting
-
-### btw, you can call me SidG
+### Artificial Intelligence, Computer Vision, Python, Finance stuff, Procrastination, Copy and Pasting
 
 ### My favourite technologies
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]

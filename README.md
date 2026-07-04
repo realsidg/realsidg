@@ -1,42 +1,78 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<div align="center">
+  <h1>Hi there, I'm Siddharth Garg 👋</h1>
+  <h3>AI & Automation Engineer | Software Consultant</h3>
+  <p><i>I help businesses replace manual workflows with custom software and AI tools.</i></p>
+  
+  <p>
+    <a href="mailto:i@siddharthgarg.in">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/sidg510/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://siddharthgarg.in">
+      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+    </a>
+  </p>
+</div>
 
-### :smiley_cat: Member Tech, DE Shaw
+---
 
-### Artificial Intelligence, Computer Vision, Python, Finance stuff, Procrastination, Copy and Pasting
+## 👨‍💻 About Me
 
-### My favourite technologies
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
-[![TF Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)]
-[![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]
-[![Fastapi Badge](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)]
+I build **AI-powered tools, workflow automations, and backend systems** for founders and small businesses. My work spans quantitative finance (D. E. Shaw), consumer apps (3,000+ users), and AI/computer vision — giving me the range to diagnose real problems and ship practical solutions fast. I own the full product lifecycle: from requirements and system design through to deployment and iteration.
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
-## By the way here are some of my statistics 🚀
-![SidG's github stats](https://github-readme-stats.vercel.app/api?username=realsidg&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=realsidg&theme=tokyonight" alt="mystreak"/>
-![SidG's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realsidg&theme=tokyonight&layout=compact)
+## 🛠️ Technical Skills
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+- **AI & ML:** LLM Applications, AI Agents, Workflow Automation, Computer Vision, Machine Learning
+- **Backend:** Python, FastAPI, REST APIs, PostgreSQL, Redis, Firebase
+- **Frontend:** React, React Native, TypeScript, JavaScript
+- **Product & Design:** Product Architecture, MVP Development, System Design, Technical Leadership
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40612581" width="100" height="100">](https://www.credential.net/990cc8d2-6e7b-4b85-b95d-fb7c9e1e6876#gs.ff60zk)
-[<img src="https://images.credly.com/size/220x220/images/2b609053-f4fe-4171-8739-d9c1955deec4/Professional_Certificate_-_AI_Engineering.png" width="100" height="100">](https://www.credly.com/badges/e08d746e-9c48-4a5f-b481-c880bed406cc/public_url)
-[<img src="https://images.credly.com/size/220x220/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png" width="100" height="100">](https://www.credly.com/badges/d2873b46-3527-4aa3-a7a6-7917e63e43ea/public_url)
-[<img src="https://images.credly.com/size/220x220/images/e6440901-1f1b-4c22-83f6-ab7316972c42/IBM_AI_-_Machine_Learning_with_Apache_Spark.png" width="100" height="100">](https://www.credly.com/badges/ffdb6a2b-6912-4010-b5c3-bab10b662a2e/public_url)
+---
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## 💼 Experience
 
-## Contact me : 
-📫 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="18">](www.siddharthgarg.in)
-[<img src="https://img.shields.io/badge/-i@siddharthgarg.in-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:i@siddharthgarg.in" height="18">](mailto:i@siddharthgarg.in)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/sidg510/" height="18">](https://www.linkedin.com/in/sidg510/)
+- **Software & AI Consultant** (Apr 2026 – Present) | *Bengaluru, India*
+  - Build AI-powered internal tools, workflow automation systems, and backend services for founders and small businesses.
+  - Own architecture, implementation, deployment, and maintenance — from business requirements to production-ready software.
 
+- **Co-Founder @ Smingle** (Mar 2025 – Mar 2026) | *Bengaluru, India*
+  - Built cross-platform React Native app (social discovery mobile app); owned architecture, backend, feature planning, and technical execution end to end.
+  - Grew the platform to 3,000+ users through data-driven product iteration across engineering, design, and growth.
 
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+- **Member Technical @ The D. E. Shaw Group** (Jan 2022 – Mar 2024) | *Bengaluru, India*
+  - Built scalable ETL pipelines processing alternative datasets for systematic and discretionary investment workflows.
+  - Designed a data validation framework that cut validation time from ~1 hour to 12 minutes while significantly improving data quality.
+  - Worked directly with quantitative researchers to translate investment research requirements into production-grade software.
 
-------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
+- **Earlier Experience:**
+  - Computer Vision Engineer @ FindMind Analytics (2020)
+  - AI Engineer @ Symbionic (2020)
 
-Last Edited on: 04/11/2021
+---
+
+## 🎓 Education & Certifications
+
+- **B.Tech. in Computer Science** — Vellore Institute of Technology
+- **Certifications:** CFA Level I • TensorFlow Developer Certificate • DeepLearning.AI Deep Learning Specialization • IBM AI Engineering Professional Certificate
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realsidg&show_icons=true&theme=tokyonight" alt="SidG's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsidg&theme=tokyonight&layout=compact" alt="SidG's Top Langs" />
+</div>
